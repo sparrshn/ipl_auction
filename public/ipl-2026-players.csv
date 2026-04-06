@@ -1,0 +1,250 @@
+name,nationality,role,base_price
+Ruturaj Gaikwad,India,Batsman,2Cr
+MS Dhoni,India,Wicket-Keeper,1Cr
+Sanju Samson,India,Wicket-Keeper,1.5Cr
+Dewald Brevis,South Africa,Batsman,1Cr
+Aysh Mhatre,India,Batsman,0.5Cr
+Kartik Sharma,India,Wicket-Keeper,0.5Cr
+Sarfaraz Khan,India,Batsman,0.5Cr
+Urvil Patel,India,Wicket-Keeper,0.5Cr
+Anshul Kamboj,India,All-Rounder,0.5Cr
+Jamie Overton,England,All-Rounder,1Cr
+Ramakrishna Ghosh,India,All-Rounder,0.5Cr
+Prashant Veer,India,All-Rounder,0.5Cr
+Matthew William Short,Australia,All-Rounder,0.5Cr
+Aman Khan,India,All-Rounder,0.5Cr
+Zak Foulkes,India,All-Rounder,0.5Cr
+Shivam Dube,India,All-Rounder,2Cr
+Khaleel Ahmed,India,Bowler,1.5Cr
+Noor Ahmad,Afghanistan,Bowler,1.5Cr
+Mukhesh Choudhary,India,Bowler,0.5Cr
+Nathan Ellis,Australia,Bowler,1.5Cr
+Shreyas Gopal,India,Bowler,0.5Cr
+Gurjapneet Singh,India,Bowler,0.5Cr
+Akeal Hosein,West Indies,Bowler,0.5Cr
+Matt Henry,New Zealand,Bowler,0.5Cr
+Rahul Chahar,India,Bowler,1Cr
+KL Rahul,India,Wicket-Keeper,2Cr
+Karun Nair,India,Batsman,1Cr
+David Miller,South Africa,Batsman,2Cr
+Ben Duckett,England,Wicket-Keeper,1.5Cr
+Pathum Nissanka,Sri Lanka,Batsman,1Cr
+Sahil Parakh,India,Batsman,0.5Cr
+Prithvi Shaw,India,Batsman,0.5Cr
+Abishek Porel,India,Batsman,0.5Cr
+Tristan Stubbs,South Africa,Wicket-Keeper,2Cr
+Axar Patel,India,All-Rounder,2Cr
+Sameer Rizvi,India,All-Rounder,0.5Cr
+Ashutosh Sharma,India,All-Rounder,1Cr
+Vipraj Nigam,India,All-Rounder,0.5Cr
+Ajay Mandal,India,All-Rounder,0.5Cr
+Tripurana Vijay,India,All-Rounder,0.5Cr
+Madhav Tiwari,India,All-Rounder,0.5Cr
+Auqib Dar,India,All-Rounder,0.5Cr
+Nitish Rana,India,All-Rounder,1Cr
+Mitchell Starc,Australia,Bowler,2Cr
+T. Natarajan,India,Bowler,2Cr
+Mukesh Kumar,India,Bowler,0.5Cr
+Dushmantha Chameera,Sri Lanka,Bowler,1.5Cr
+Lungisani Ngidi,South Africa,Bowler,1.5Cr
+Kyle Jamieson,New Zealand,Bowler,1Cr
+Kuldeep Yadav,India,Bowler,1.5Cr
+Shubman Gill,India,Batsman,2Cr
+Jos Buttler,England,Wicket-Keeper,2Cr
+Kumar Kushagra,India,Batsman,0.5Cr
+Anuj Rawat,India,Batsman,0.5Cr
+Tom Banton,England,Wicket-Keeper,0.5Cr
+Glen Phillips,New Zealand,Batsman,1.5Cr
+Nishant Sindhu,India,All-Rounder,0.5Cr
+Washington Sundar,India,All-Rounder,1.5Cr
+Mohd. Arshad Khan,India,All-Rounder,0.5Cr
+Sai Kishore,India,All-Rounder,1.5Cr
+Jayant Yadav,India,All-Rounder,0.5Cr
+Jason Holder,West Indies,All-Rounder,1.5Cr
+Sai Sudarshan,India,All-Rounder,2Cr
+Sharukh Khan,India,All-Rounder,1.5Cr
+Kagiso Rabada,South Africa,Bowler,2Cr
+Mohammed Siraj,India,Bowler,2Cr
+Prasidh Krishna,India,Bowler,2Cr
+Manav Suthar,India,Bowler,0.5Cr
+Gurnoor Singh Brar,India,Bowler,0.5Cr
+Ishant Sharma,India,Bowler,1Cr
+Ashok Sharma,India,Bowler,0.5Cr
+Prithvi Raj Yarra,India,Bowler,0.5Cr
+Luke Wood,India,Bowler,0.5Cr
+Rahul Tewatia,India,Bowler,1.5Cr
+Rashid Khan,Afghanistan,Bowler,2Cr
+Ajinkya Rahane,India,Batsman,2Cr
+Rinku Singh,India,Batsman,1.5Cr
+Angkrish Raghuvanshi,India,Batsman,1Cr
+Manish Pandey,India,Batsman,0.5Cr
+Cameron Green,Australia,Batsman,2Cr
+Finn Allen,New Zealand,Batsman,1Cr
+Tejasvi Singh,India,Wicket-Keeper,0.5Cr
+Rahul Tripathi,India,Batsman,0.5Cr
+Tim Seifert,New Zealand,Batsman,1Cr
+Rovman Powell,West Indies,Batsman,1Cr
+Anukul Roy,India,All-Rounder,0.5Cr
+Sarthak Ranjan,India,All-Rounder,0.5Cr
+Daksh Kamra,India,All-Rounder,0.5Cr
+Rachin Ravindra,New Zealand,All-Rounder,1Cr
+Ramandeep Singh,India,All-Rounder,1Cr
+Vaibhav Arora,India,Bowler,1.5Cr
+Matheesha Pathirana,Sri Lanka,Bowler,2Cr
+Kartik Tyagi,India,Bowler,0.5Cr
+Prashant Solanki,India,Bowler,0.5Cr
+Akash Deep,India,Bowler,1Cr
+Harshit Rana,India,Bowler,2Cr
+Umran Malik,India,Bowler,1Cr
+Sunil Narine,West Indies,Bowler,2Cr
+Varun Chakravarthy,India,Bowler,2Cr
+Rishabh Pant,India,Wicket-Keeper,2Cr
+Aiden Markram,South Africa,Batsman,1.5Cr
+Himmat Singh,India,Batsman,0.5Cr
+Matthew Breetzke,South Africa,Batsman,0.5Cr
+Mukul Choudary,India,Wicket-Keeper,0.5Cr
+Akshat Raghuwanshi,India,Batsman,0.5Cr
+Josh Inglis,Australia,Wicket-Keeper,1.5Cr
+Nicholas Pooran,West Indies,Wicket-Keeper,2Cr
+Mitchell Marsh,Australia,All-Rounder,2Cr
+Abdul Samad,India,All-Rounder,1Cr
+Shahbaz Ahmed,India,All-Rounder,1Cr
+Arshin Kulkarni,India,All-Rounder,0.5Cr
+Wanindu Hasaranga,Sri Lanka,All-Rounder,1Cr
+Ayush Badoni,India,All-Rounder,1Cr
+Mohammad Shami,India,Bowler,2Cr
+Avesh Khan,India,Bowler,1.5Cr
+M. Siddharth,India,Bowler,0.5Cr
+Digvesh Singh,India,Bowler,1.5Cr
+Akash Singh,India,Bowler,0.5Cr
+Prince Yadav,India,Bowler,0.5Cr
+Arjun Tendulkar,India,Bowler,0.5Cr
+Anrich Nortje,South Africa,Bowler,1.5Cr
+Naman Tiwari,India,Bowler,0.5Cr
+Mayank Yadav,India,Bowler,1Cr
+Mohsin Khan,India,Bowler,0.5Cr
+Rohit Sharma,India,Batsman,2Cr
+Suryakumar Yadav,India,Batsman,2Cr
+Robin Minz,India,Wicket-Keeper,0.5Cr
+Sherfane Rutherford,West Indies,Batsman,1.5Cr
+Ryan Rickelton,South Africa,Wicket-Keeper,1.5Cr
+Quentin De Kock,South Africa,Wicket-Keeper,1.5Cr
+Danish Malewar,India,Batsman,0.5Cr
+Tilak Verma,India,Batsman,2Cr
+Hardik Pandya,India,All-Rounder,2Cr
+Naman Dhir,India,All-Rounder,0.5Cr
+Mitchell Santner,New Zealand,All-Rounder,1.5Cr
+Raj Angad Bawa,India,All-Rounder,0.5Cr
+Atharva Ankolekar,India,All-Rounder,0.5Cr
+Mayank Rawat,India,All-Rounder,0.5Cr
+Corbin Bosch,South Africa,All-Rounder,0.5Cr
+Will Jacks,England,All-Rounder,1.5Cr
+Shardul Thakur,India,All-Rounder,1.5Cr
+Trent Boult,New Zealand,Bowler,2Cr
+Mayank Markande,India,Bowler,1Cr
+Deepak Chahar,India,Bowler,1.5Cr
+Ashwani Kumar,India,Bowler,0.5Cr
+Raghu Sharma,India,Bowler,0.5Cr
+Mohammad Izhar,India,Bowler,0.5Cr
+Allah Ghazanfar,Afghanistan,Bowler,0.5Cr
+Jasprit Bumrah,India,Bowler,2Cr
+Shreyas Iyer,India,Batsman,2Cr
+Nehal Wadhera,India,Batsman,1Cr
+Vishnu Vinod,India,Wicket-Keeper,1Cr
+Harnoor Pannu,India,Batsman,0.5Cr
+Pyla Avinash,India,Batsman,0.5Cr
+Prabhsimran Singh,India,Wicket-Keeper,1Cr
+Shashank Singh,India,Batsman,1Cr
+Marcus Stoinis,Australia,All-Rounder,1.5Cr
+Harpreet Brar,India,All-Rounder,0.5Cr
+Marco Jansen,South Africa,All-Rounder,1.5Cr
+Azamtullah Omarzai,Afghanistan,All-Rounder,1.5Cr
+Priyansh Arya,India,All-Rounder,1Cr
+Musheer Khan,India,All-Rounder,0.5Cr
+Suryansh Shedge,India,All-Rounder,0.5Cr
+Mitch Owen,Australia,Wicket-Keeper,0.5Cr
+Cooper Connolly,Australia,All-Rounder,0.5Cr
+Ben Dwarshuis,Netherlands,All-Rounder,0.5Cr
+Arshdeep Singh,India,Bowler,2Cr
+Yuzvendra Chahal,India,Bowler,2Cr
+Vyshak Vijaykumar,India,Bowler,0.5Cr
+Yash Thakur,India,Bowler,1Cr
+Xavier Bartlett,Australia,Bowler,0.5Cr
+Pravin Dubey,India,Bowler,0.5Cr
+Vishal Nishad,India,Bowler,0.5Cr
+Lockie Ferguson,New Zealand,Bowler,1Cr
+Riyan Parag,India,Batsman,2Cr
+Shubham Dubey,India,Batsman,1Cr
+Vaibhav Suryavanshi,India,Batsman,1.5Cr
+Donovan Ferreira,South Africa,Wicket-Keeper,0.5Cr
+Lhuan-Dre Pretorius,South Africa,Batsman,0.5Cr
+Ravi Singh,India,Wicket-Keeper,0.5Cr
+Aman Rao Perala,India,Batsman,0.5Cr
+Shimron Hetmyer,West Indies,Batsman,1.5Cr
+Yashasvi Jaiswal,India,Batsman,2Cr
+Dhruv Jurel,India,Wicket-Keeper,1Cr
+Yudhvir Singh Charak,India,All-Rounder,0.5Cr
+Ravindra Jadeja,India,All-Rounder,2Cr
+Sam Curran,England,All-Rounder,1.5Cr
+Jofra Archer,England,Bowler,2Cr
+Tushar Deshpande,India,Bowler,1Cr
+Kwena Maphaka,South Africa,Bowler,0.5Cr
+Ravi Bishnoi,India,Bowler,1.5Cr
+Sushant Mishra,India,Bowler,0.5Cr
+Yash Raj Punja,India,Bowler,0.5Cr
+Vignesh Puthur,India,Bowler,0.5Cr
+Brijesh Sharma,India,Bowler,0.5Cr
+Adam Milne,New Zealand,Bowler,1Cr
+Kuldeep Sen,India,Bowler,0.5Cr
+Sandeep Sharma,India,Bowler,1.5Cr
+Nandre Burger,South Africa,Bowler,0.5Cr
+Rajat Patidar,India,Batsman,2Cr
+Devdutt Padikkal,India,Batsman,1.5Cr
+Virat Kohli,India,Batsman,2Cr
+Phil Salt,England,Wicket-Keeper,1.5Cr
+Jitesh Sharma,India,Batsman,1Cr
+Jordan Cox,England,Wicket-Keeper,0.5Cr
+Krunal Pandya,India,All-Rounder,2Cr
+Swapnil Singh,India,All-Rounder,0.5Cr
+Tim David,Singapore,All-Rounder,2Cr
+Romario Shepherd,West Indies,All-Rounder,1.5Cr
+Jacob Bethell,England,All-Rounder,1Cr
+Venkatesh Iyer,India,All-Rounder,1.5Cr
+Satvi Deswal,India,All-Rounder,0.5Cr
+Mangesh Yadav,India,All-Rounder,0.5Cr
+Vicky Ostwal,India,All-Rounder,0.5Cr
+Vihaan Malhotra,India,All-Rounder,0.5Cr
+Kanishk Chouhan,India,All-Rounder,0.5Cr
+Josh Hazelwood,Australia,Bowler,2Cr
+Rasikh Dar,India,Bowler,0.5Cr
+Suyash Sharma,India,Bowler,1Cr
+Bhuvneshwar Kumar,India,Bowler,1.5Cr
+Nuwan Thushara,Sri Lanka,Bowler,0.5Cr
+Abhinandan Singh,India,Bowler,0.5Cr
+Jacob Duffy,New Zealand,Bowler,0.5Cr
+Yash Dayal,India,Bowler,1Cr
+Ishan Kishan,India,Wicket-Keeper,2Cr
+Aniket Verma,India,Batsman,0.5Cr
+Samaran Ravichandran,India,Batsman,0.5Cr
+Salil Arora,India,Batsman,0.5Cr
+Heinrich Klaasen,South Africa,Wicket-Keeper,1.5Cr
+Travis Head,Australia,Batsman,2Cr
+Harshal Patel,India,All-Rounder,2Cr
+Kamindu Mendis,Sri Lanka,All-Rounder,1.5Cr
+Harsh Dubey,India,All-Rounder,0.5Cr
+Brydon Carse,England,All-Rounder,0.5Cr
+Shivang Kumar,India,All-Rounder,0.5Cr
+Krains Fuletra,India,All-Rounder,0.5Cr
+Liam Livingstone,England,All-Rounder,1.5Cr
+Jack Edwards,Australia,All-Rounder,0.5Cr
+Abhishek Sharma,India,All-Rounder,2Cr
+Nitish Kumar Reddy,India,All-Rounder,1Cr
+Pat Cummins,Australia,Bowler,2Cr
+Zeeshan Ansari,India,Bowler,0.5Cr
+Jaydev Unadkat,India,Bowler,1Cr
+Eshan Malinga,Sri Lanka,Bowler,1Cr
+Sakib Hussain,India,Bowler,0.5Cr
+Onkar Tarmale,India,Bowler,0.5Cr
+Amit Kumar,India,Bowler,0.5Cr
+Praful Hinge,India,Bowler,0.5Cr
+Shivam Mavi,India,Bowler,1Cr

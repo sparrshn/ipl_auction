@@ -1,0 +1,124 @@
+{
+  "teams": [
+    {
+      "id": "aditya_knight_riders",
+      "name": "Aditya Knight Riders",
+      "owner": "Aditya",
+      "color": "#7C3AED",
+      "players": [
+        { "name": "Virat Kohli", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Prasidh Krishna", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Jasprit Bumrah", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Varun Chakravarthy", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Khaleel Ahmed", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Mitchell Starc", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "KL Rahul", "role": "Wicket-Keeper", "nationality": "India", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Nicholas Pooran", "role": "Wicket-Keeper", "nationality": "Overseas", "uncapped": false, "ipl_team": "Lucknow Super Giants" },
+        { "name": "SKY", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Sunil Narine", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Phil Salt", "role": "Wicket-Keeper", "nationality": "Overseas", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Yuzvendra Chahal", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Punjab Kings" },
+        { "name": "Ruturaj Gaikwad", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Digvesh Rathi", "role": "Bowler", "nationality": "India", "uncapped": true, "ipl_team": "Lucknow Super Giants" },
+        { "name": "Sai Kishore", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Nitish Rana", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Delhi Capitals" }
+      ]
+    },
+    {
+      "id": "durandhar_kings",
+      "name": "Durandhar Kings",
+      "owner": "Kaushal",
+      "color": "#EAB308",
+      "players": [
+        { "name": "Sanju Samson", "role": "Wicket-Keeper", "nationality": "India", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Ravindra Jadeja", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Pat Cummins", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Sunrisers Hyderabad" },
+        { "name": "Dewald Brevis", "role": "Batsman", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Priyansh Arya", "role": "All-Rounder", "nationality": "India", "uncapped": true, "ipl_team": "Punjab Kings" },
+        { "name": "Jacob Bethell", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Prashant Veer", "role": "All-Rounder", "nationality": "India", "uncapped": true, "ipl_team": "Chennai Super Kings" },
+        { "name": "Rohit Sharma", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Shivam Dube", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Matheesha Pathirana", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Kyle Jamieson", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Dushmantha Chameera", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Saurabh Dubey", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Jamie Overton", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Sarfaraz Khan", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Raj Angad Bawa", "role": "All-Rounder", "nationality": "India", "uncapped": true, "ipl_team": "Mumbai Indians" }
+      ]
+    },
+    {
+      "id": "kathans_xi",
+      "name": "Kathan's XI",
+      "owner": "Kathan",
+      "color": "#3B82F6",
+      "players": [
+        { "name": "Josh Hazlewood", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Krunal Pandya", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Yashasvi Jaiswal", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Axar Patel", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Spencer Johnson", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Jos Buttler", "role": "Wicket-Keeper", "nationality": "Overseas", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Riyan Parag", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Rinku Singh", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Akeal Hosein", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Aiden Markram", "role": "Batsman", "nationality": "Overseas", "uncapped": false, "ipl_team": "Lucknow Super Giants" },
+        { "name": "Harpreet Brar", "role": "All-Rounder", "nationality": "India", "uncapped": true, "ipl_team": "Punjab Kings" },
+        { "name": "Dasun Shanaka", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Nehal Wadhera", "role": "Batsman", "nationality": "India", "uncapped": true, "ipl_team": "Punjab Kings" },
+        { "name": "Ishant Sharma", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Matt Henry", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Jacob Duffy", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" }
+      ]
+    },
+    {
+      "id": "lmpcrt",
+      "name": "LMPCRT",
+      "owner": "Sanjay",
+      "color": "#EF4444",
+      "players": [
+        { "name": "Mitchell Marsh", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Lucknow Super Giants" },
+        { "name": "Shreyas Iyer", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Punjab Kings" },
+        { "name": "Shubman Gill", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Noor Ahmad", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
+        { "name": "Jofra Archer", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Bhuvneshwar Kumar", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Jitesh Sharma", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Devdutt Padikkal", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Nitish Kumar Reddy", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Sunrisers Hyderabad" },
+        { "name": "Mohammed Siraj", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Rachin Ravindra", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Kolkata Knight Riders" },
+        { "name": "Will Jacks", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Deepak Chahar", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Sherfane Rutherford", "role": "Batsman", "nationality": "Overseas", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Xavier Bartlett", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Punjab Kings" },
+        { "name": "Abishek Porel", "role": "Batsman", "nationality": "India", "uncapped": true, "ipl_team": "Delhi Capitals" }
+      ]
+    },
+    {
+      "id": "the_swashbucklers",
+      "name": "The Swashbucklers",
+      "owner": "Sparrsh",
+      "color": "#39FF14",
+      "players": [
+        { "name": "Hardik Pandya", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Sai Sudharsan", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Ishan Kishan", "role": "Wicket-Keeper", "nationality": "India", "uncapped": false, "ipl_team": "Sunrisers Hyderabad" },
+        { "name": "Rashid Khan", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Trent Boult", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Tilak Verma", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Mumbai Indians" },
+        { "name": "Arshdeep Singh", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Punjab Kings" },
+        { "name": "Washington Sundar", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
+        { "name": "Vaibhav Suryavanshi", "role": "Batsman", "nationality": "India", "uncapped": true, "ipl_team": "Rajasthan Royals" },
+        { "name": "Ravi Bishnoi", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Kuldeep Yadav", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Abhishek Sharma", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Sunrisers Hyderabad" },
+        { "name": "Tristan Stubbs", "role": "Wicket-Keeper", "nationality": "Overseas", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "T. Natarajan", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Delhi Capitals" },
+        { "name": "Shimron Hetmyer", "role": "Batsman", "nationality": "Overseas", "uncapped": false, "ipl_team": "Rajasthan Royals" },
+        { "name": "Mitchell Santner", "role": "All-Rounder", "nationality": "Overseas", "uncapped": false, "ipl_team": "Mumbai Indians" }
+      ]
+    }
+  ]
+}

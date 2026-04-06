@@ -1,0 +1,1166 @@
+{
+  "season_bonuses": {
+    "orange_cap_holder": null,
+    "purple_cap_holder": null,
+    "mvp": null
+  },
+  "upcoming_matches": [
+    {
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-04-07"
+    }
+  ],
+  "matches": [
+    {
+      "id": "match-srh-rcb-20260329",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-03-29",
+      "result": "Royal Challengers Bengaluru won by 6 wickets (SRH 201/9 in 20 ov, RCB 203/4 in 15.4 ov)",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 7,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 80,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 1,
+            "balls": 6
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 19
+          }
+        },
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 8,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 69,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 61,
+            "balls": 26
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Jacob Duffy",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 22
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-mi-20260330",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-03-30",
+      "result": "Mumbai Indians won by 6 wickets (KKR 220/4 in 20 ov, MI 224/4 in 19.1 ov)",
+      "performances": [
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 33,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 30
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 48
+          }
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 78,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 16,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 20,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 18,
+            "balls": 11
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Trent Boult",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 35
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-rr-20260331",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-03-31",
+      "result": "Rajasthan Royals won by 8 wickets (CSK 127 in 19.4 ov, RR 128/2 in 12.1 ov)",
+      "performances": [
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 6,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 6,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Sarfaraz Khan",
+          "batting": {
+            "runs": 17,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 6,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "batting": {
+            "runs": 43,
+            "balls": 36
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 14
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "batting": {
+            "runs": 1,
+            "balls": 9
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 24
+          }
+        },
+        {
+          "player_name": "Matt Henry",
+          "batting": {
+            "runs": 5,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "Khaleel Ahmed",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 19
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 16
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 38,
+            "balls": 36
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 52,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 14,
+            "balls": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-pbks-gt-20260401",
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-04-01",
+      "result": "Punjab Kings won by 3 wickets (GT 162/6 in 20 ov, PBKS 165/7 in 19.1 ov)",
+      "performances": [
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 13,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 39,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 38,
+            "balls": 33
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 18,
+            "balls": 16
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3.1,
+            "runs_conceded": 27
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 15
+          }
+        },
+        {
+          "player_name": "Cooper Connolly",
+          "batting": {
+            "runs": 72,
+            "balls": 44
+          }
+        },
+        {
+          "player_name": "Prabhsimran Singh",
+          "batting": {
+            "runs": 37,
+            "balls": 24
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 18,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "batting": {
+            "runs": 3,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 7,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Marco Jansen",
+          "batting": {
+            "runs": 9,
+            "balls": 10
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "batting": {
+            "runs": 11,
+            "balls": 5
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 36
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Vyshak Vijaykumar",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-dc-20260402",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-02",
+      "result": "Delhi Capitals won by 6 wickets (LSG 141 in 18.4 ov, DC 145/4 in 17.1 ov)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 35,
+            "balls": 28
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 11,
+            "balls": 8
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 13
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 8,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 15,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 39,
+            "balls": 32
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-srh-20260402",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-02",
+      "result": "Sunrisers Hyderabad won by 65 runs (SRH 226/8 in 20 ov, KKR 161 in 16 ov)",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 48,
+            "balls": 21
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 15
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 14,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 39,
+            "balls": 24
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 2,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "batting": {
+            "runs": 12,
+            "balls": 4
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 35,
+            "balls": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-pbks-20260403",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-04-03",
+      "result": "Punjab Kings won by 5 wickets (CSK 209/5 in 20 ov, PBKS 210/5 in 18.4 ov)",
+      "performances": [
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 7,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 28,
+            "balls": 22
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 45,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Sarfaraz Khan",
+          "batting": {
+            "runs": 32,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Prashant Veer",
+          "batting": {
+            "runs": 6,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Khaleel Ahmed",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Matt Henry",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 54
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 39,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "batting": {
+            "runs": 10,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 50,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 48
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-mi-20260404",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-04-04",
+      "result": "Delhi Capitals won by 6 wickets (MI 162/6 in 20 ov, DC 164/4 in 18.1 ov)",
+      "performances": [
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 35,
+            "balls": 26
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 51,
+            "balls": 36
+          }
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "batting": {
+            "runs": 5,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Mitchell Santner",
+          "batting": {
+            "runs": 18,
+            "balls": 13
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 22
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 21
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 3,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 22
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-gt-rr-20260404",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-04",
+      "result": "Rajasthan Royals won by 6 runs",
+      "performances": [
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 31,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 55,
+            "balls": 36
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 8,
+            "balls": 4
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "runs_conceded": 11
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 18,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 7,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 48
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 43
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 39
+          },
+          "batting": {
+            "runs": 24,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 73,
+            "balls": 44
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 26,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 4,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 4,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-lsg-20260405",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-05",
+      "result": "Lucknow Super Giants won by 5 wickets (with 1 ball remaining)",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 1,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 56,
+            "balls": 33
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 14
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 46
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 45,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 14,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 1,
+            "balls": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rcb-csk-20260406",
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-06",
+      "result": "Royal Challengers Bengaluru won by 43 runs",
+      "performances": [
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 46,
+            "balls": 30
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 28,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 50,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Khaleel Ahmed",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 37
+          }
+        },
+        {
+          "player_name": "Matt Henry",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 36
+          },
+          "batting": {
+            "runs": 2,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 49
+          },
+          "batting": {
+            "runs": 8,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 42
+          },
+          "batting": {
+            "runs": 37,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 30
+          },
+          "batting": {
+            "runs": 18,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 9,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 7,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Sarfaraz Khan",
+          "batting": {
+            "runs": 50,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Prashant Veer",
+          "batting": {
+            "runs": 43,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Jacob Duffy",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 58
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 36
+          }
+        }
+      ]
+    }
+  ]
+}

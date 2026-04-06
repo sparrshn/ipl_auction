@@ -1,0 +1,352 @@
+[
+  {
+    "date": "2026-03-29",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-03-30",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-03-31",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-04-01",
+    "team1": "Punjab Kings",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-04-02",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-04-02",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-04-04",
+    "team1": "Delhi Capitals",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-04-04",
+    "team1": "Gujarat Titans",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-04-03",
+    "team1": "Chennai Super Kings",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-04-05",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-04-06",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-04-07",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-04-08",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-04-09",
+    "team1": "Delhi Capitals",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-04-10",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-04-11",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-04-11",
+    "team1": "Punjab Kings",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-04-12",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-04-12",
+    "team1": "Lucknow Super Giants",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-04-13",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-04-14",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-04-15",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-04-16",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-04-17",
+    "team1": "Mumbai Indians",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-04-18",
+    "team1": "Gujarat Titans",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-04-18",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-04-19",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-04-19",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-04-20",
+    "team1": "Punjab Kings",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-04-21",
+    "team1": "Gujarat Titans",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-04-22",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-04-23",
+    "team1": "Lucknow Super Giants",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-04-24",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-04-25",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-04-25",
+    "team1": "Delhi Capitals",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-04-26",
+    "team1": "Rajasthan Royals",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-04-26",
+    "team1": "Gujarat Titans",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-04-27",
+    "team1": "Lucknow Super Giants",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-04-28",
+    "team1": "Delhi Capitals",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-04-29",
+    "team1": "Punjab Kings",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-04-30",
+    "team1": "Mumbai Indians",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-05-01",
+    "team1": "Gujarat Titans",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-05-02",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-05-03",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-05-03",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-05-04",
+    "team1": "Gujarat Titans",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-05-05",
+    "team1": "Mumbai Indians",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-05-06",
+    "team1": "Delhi Capitals",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-05-07",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-05-08",
+    "team1": "Lucknow Super Giants",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-05-09",
+    "team1": "Delhi Capitals",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-05-10",
+    "team1": "Rajasthan Royals",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-05-10",
+    "team1": "Chennai Super Kings",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-05-11",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-05-12",
+    "team1": "Punjab Kings",
+    "team2": "Delhi Capitals"
+  },
+  {
+    "date": "2026-05-13",
+    "team1": "Gujarat Titans",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-05-14",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Kolkata Knight Riders"
+  },
+  {
+    "date": "2026-05-15",
+    "team1": "Punjab Kings",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-05-16",
+    "team1": "Lucknow Super Giants",
+    "team2": "Chennai Super Kings"
+  },
+  {
+    "date": "2026-05-17",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-05-17",
+    "team1": "Punjab Kings",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-05-18",
+    "team1": "Delhi Capitals",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-05-19",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad"
+  },
+  {
+    "date": "2026-05-20",
+    "team1": "Rajasthan Royals",
+    "team2": "Lucknow Super Giants"
+  },
+  {
+    "date": "2026-05-21",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  {
+    "date": "2026-05-22",
+    "team1": "Chennai Super Kings",
+    "team2": "Gujarat Titans"
+  },
+  {
+    "date": "2026-05-23",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bengaluru"
+  },
+  {
+    "date": "2026-05-24",
+    "team1": "Lucknow Super Giants",
+    "team2": "Punjab Kings"
+  },
+  {
+    "date": "2026-05-24",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-05-25",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Capitals"
+  }
+]

@@ -1,0 +1,81 @@
+team,player,role,nationality,final_price,is_captain
+Aditya Knight Riders,Virat Kohli,Batsman,India,150000000,false
+Aditya Knight Riders,Prasidh Krishna,Bowler,India,120000000,false
+Aditya Knight Riders,Jasprit Bumrah,Bowler,India,100000000,false
+Aditya Knight Riders,Varun Chakravarthy,Bowler,India,96000000,false
+Aditya Knight Riders,Khaleel Ahmed,Bowler,India,90000000,false
+Aditya Knight Riders,Mitchell Starc,Bowler,Overseas,77500000,false
+Aditya Knight Riders,KL Rahul,Wicket-Keeper,India,72500000,false
+Aditya Knight Riders,Nicholas Pooran,Wicket-Keeper,Overseas,57500000,false
+Aditya Knight Riders,SKY,Batsman,India,50000000,false
+Aditya Knight Riders,Sunil Narine,Bowler,Overseas,35000000,false
+Aditya Knight Riders,Phil Salt,Wicket-Keeper,Overseas,30000000,false
+Aditya Knight Riders,Yuzvendra Chahal,Bowler,India,22500000,false
+Aditya Knight Riders,Ruturaj Gaikwad,Batsman,India,22500000,true
+Aditya Knight Riders,Digvesh Singh,Bowler,India,18000000,false
+Aditya Knight Riders,Sai Kishore,All-Rounder,India,16000000,false
+Aditya Knight Riders,Nitish Rana,All-Rounder,India,12000000,false
+Durandhar Kings,Sanju Samson,Wicket-Keeper,India,228500000,false
+Durandhar Kings,Ravindra Jadeja,All-Rounder,India,125000000,false
+Durandhar Kings,Pat Cummins,Bowler,Overseas,105000000,true
+Durandhar Kings,Dewald Brevis,Batsman,Overseas,105000000,false
+Durandhar Kings,Priyansh Arya,All-Rounder,India,97500000,false
+Durandhar Kings,Jacob Bethell,All-Rounder,Overseas,67500000,false
+Durandhar Kings,Prashant Veer,All-Rounder,India,65000000,false
+Durandhar Kings,Rohit Sharma,Batsman,India,52500000,false
+Durandhar Kings,Shivam Dube,All-Rounder,India,42500000,false
+Durandhar Kings,Matheesha Pathirana,Bowler,Overseas,40000000,false
+Durandhar Kings,Kyle Jamieson,Bowler,Overseas,19500000,false
+Durandhar Kings,Dushmantha Chameera,Bowler,Overseas,16000000,false
+Durandhar Kings,Akash Deep,Bowler,India,11000000,false
+Durandhar Kings,Jamie Overton,All-Rounder,Overseas,11000000,false
+Durandhar Kings,Sarfaraz Khan,Batsman,India,8000000,false
+Durandhar Kings,Raj Angad Bawa,All-Rounder,India,6000000,false
+Kathan's XI,Josh Hazelwood,Bowler,Overseas,150000000,false
+Kathan's XI,Krunal Pandya,All-Rounder,India,120000000,false
+Kathan's XI,Yashasvi Jaiswal,Batsman,India,100000000,false
+Kathan's XI,Axar Patel,All-Rounder,India,100000000,true
+Kathan's XI,Nathan Ellis,Bowler,Overseas,90000000,false
+Kathan's XI,Jos Butler,Wicket-Keeper,Overseas,80000000,false
+Kathan's XI,Riyan Parag,Batsman,India,75000000,true
+Kathan's XI,Rinku Singh,Batsman,India,60000000,false
+Kathan's XI,Akeal Hosein,Bowler,Overseas,53500000,false
+Kathan's XI,Aiden Markram,Batsman,Overseas,50000000,false
+Kathan's XI,Harpreet Brar,All-Rounder,India,42500000,false
+Kathan's XI,Sam Curran,All-Rounder,Overseas,25000000,false
+Kathan's XI,Nehal Wadhera,Batsman,India,11000000,false
+Kathan's XI,Ishant Sharma,Bowler,India,11000000,false
+Kathan's XI,Matt Henry,Bowler,Overseas,6000000,false
+Kathan's XI,Jacob Duffy,Bowler,Overseas,6000000,false
+LMPCRT,Mitchell Marsh,All-Rounder,Overseas,165000000,false
+LMPCRT,Shreyas Iyer,Batsman,India,150000000,true
+LMPCRT,Shubman Gill,Batsman,India,112000000,true
+LMPCRT,Noor Ahmad,Bowler,Overseas,100000000,false
+LMPCRT,Jofra Archer,Bowler,Overseas,77500000,false
+LMPCRT,Bhuvneshwar Kumar,Bowler,India,54500000,false
+LMPCRT,Jitesh Sharma,Batsman,India,100000000,false
+LMPCRT,Devdutt Padikkal,Batsman,India,50000000,false
+LMPCRT,Nitish Kumar Reddy,All-Rounder,India,50000000,false
+LMPCRT,Mohammed Siraj,Bowler,India,47500000,false
+LMPCRT,Rachin Ravindra,All-Rounder,Overseas,26500000,false
+LMPCRT,Will Jacks,All-Rounder,Overseas,19500000,false
+LMPCRT,Deepak Chahar,Bowler,India,17000000,false
+LMPCRT,Sherfane Rutherford,Batsman,Overseas,16000000,false
+LMPCRT,Xavier Bartlett,Bowler,Overseas,8500000,false
+LMPCRT,Abishek Porel,Batsman,India,6000000,false
+The Swashbucklers,Hardik Pandya,All-Rounder,India,150000000,true
+The Swashbucklers,Sai Sudarshan,All-Rounder,India,100000000,false
+The Swashbucklers,Ishan Kishan,Wicket-Keeper,India,92500000,false
+The Swashbucklers,Rashid Khan,Bowler,Overseas,90000000,false
+The Swashbucklers,Trent Boult,Bowler,Overseas,80000000,false
+The Swashbucklers,Tilak Verma,Batsman,India,65000000,false
+The Swashbucklers,Arshdeep Singh,Bowler,India,60000000,false
+The Swashbucklers,Washington Sundar,All-Rounder,India,58500000,false
+The Swashbucklers,Vaibhav Suryavanshi,Batsman,India,50000000,false
+The Swashbucklers,Ravi Bishnoi,Bowler,India,50000000,false
+The Swashbucklers,Kuldeep Yadav,Bowler,India,47500000,false
+The Swashbucklers,Abhishek Sharma,All-Rounder,India,42500000,false
+The Swashbucklers,Tristan Stubbs,Wicket-Keeper,Overseas,22500000,false
+The Swashbucklers,T. Natarajan,Bowler,India,22500000,false
+The Swashbucklers,Shimron Hetmyer,Batsman,Overseas,17000000,false
+The Swashbucklers,Mitchell Santner,All-Rounder,Overseas,16000000,false

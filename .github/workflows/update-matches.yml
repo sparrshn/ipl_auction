@@ -1,0 +1,49 @@
+name: Update IPL Match Scores
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 7:30 PM IST — evening match
+    - cron: '0 19 * * *'   # 12:30 AM IST — late match (--yesterday)
+  workflow_dispatch:
+    inputs:
+      yesterday:
+        description: 'Use --yesterday flag'
+        type: boolean
+        default: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Run update (evening — today's match)
+        if: github.event.schedule == '0 14 * * *' || (github.event_name == 'workflow_dispatch' && inputs.yesterday == false)
+        run: node scripts/update-matches.js
+        env:
+          CHROME_PATH: /usr/bin/google-chrome
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+      - name: Run update (late — yesterday's match)
+        if: github.event.schedule == '0 19 * * *' || (github.event_name == 'workflow_dispatch' && inputs.yesterday == true)
+        run: node scripts/update-matches.js --yesterday
+        env:
+          CHROME_PATH: /usr/bin/google-chrome
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
