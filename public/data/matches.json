@@ -1161,6 +1161,31 @@
           }
         }
       ]
+    },
+    {
+      "id": "match-kkr-pbks-20260406",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-04-06",
+      "result": "Match abandoned due to rain — no result",
+      "performances": [
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 16
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "bowling": {
+            "wickets": 2,
+            "overs": 1.4,
+            "runs_conceded": 9
+          }
+        }
+      ]
     }
   ]
 }
