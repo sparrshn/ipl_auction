@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Gujarat Titans",
-      "date": "2026-04-09"
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-10"
     }
   ],
   "matches": [
@@ -1312,6 +1312,125 @@
             "wickets": 2,
             "overs": 2,
             "runs_conceded": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-gt-20260409",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-04-09",
+      "result": "Gujarat Titans won by 1 run",
+      "performances": [
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 12,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 70,
+            "balls": 45
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 52,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 55,
+            "balls": 32
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 11
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 32
+          },
+          "batting": {
+            "runs": 2,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 42
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 34
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 92,
+            "balls": 52
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 5,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 7,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 52
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 52
           }
         }
       ]
