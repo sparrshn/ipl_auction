@@ -639,7 +639,7 @@
           p.match_count = p.match_ids.size;
           const contribScore = (totalRuns > 0 ? (p.batting / totalRuns) * 100 : 0)
                              + (totalWickets > 0 ? (p.bowling / totalWickets) * 100 : 0);
-          p.impact_per_match = p.match_count > 0 ? contribScore / p.match_count : 0;
+          p.impact_per_match = contribScore;
           p.strike_rate = p.balls >= 10 ? (p.runs / p.balls) * 100 : null;
           p.economy = p.overs >= 2 ? p.runs_conceded / p.overs : null;
           allPlayers.push(p);
@@ -703,11 +703,11 @@
         .sort((a, b) => a.economy - b.economy)
         .map(p => ({ ...p, _statVal: p.economy.toFixed(2) }));
 
-      // Highest Impact — top 5 by contribution score per match
+      // Highest Impact — top 5 by total contribution percentage
       const impactList = allPlayers
-        .filter(p => p.match_count > 0 && (p.batting > 0 || p.bowling > 0))
+        .filter(p => p.batting > 0 || p.bowling > 0)
         .sort((a, b) => b.impact_per_match - a.impact_per_match)
-        .map(p => ({ ...p, _statVal: p.impact_per_match.toFixed(2) }));
+        .map(p => ({ ...p, _statVal: p.impact_per_match.toFixed(2) + '%' }));
 
       function capCard(icon, label, desc, color, finalHolder, list, colLabel) {
         const banner = finalHolder
@@ -725,8 +725,8 @@
           leaderboardHTML(explosiveList, 'SR')),
         card('🎯', 'Most Clinical', 'Lowest economy (min 2 overs)', 'border-cyan-500/40 bg-cyan-950/30',
           leaderboardHTML(clinicalList, 'Economy')),
-        card('⚡', 'Highest Impact', 'Contribution score per match played', 'border-emerald-500/40 bg-emerald-950/30',
-          leaderboardHTML(impactList, 'Pts / M')),
+        card('⚡', 'Highest Impact', '% of total runs + wickets contributed', 'border-emerald-500/40 bg-emerald-950/30',
+          leaderboardHTML(impactList, '%')),
       ].join('');
     }
 
