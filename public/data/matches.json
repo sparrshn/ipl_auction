@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Kolkata Knight Riders",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-04-10"
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-11"
+    },
+    {
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-11"
     }
   ],
   "matches": [
@@ -1431,6 +1436,59 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 52
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-lsg-20260410",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-10",
+      "result": "Lucknow Super Giants won by 3 wickets (with 0 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 4,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 15,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 22,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 13,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 13
           }
         }
       ]
