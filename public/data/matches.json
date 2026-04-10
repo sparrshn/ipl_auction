@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Rajasthan Royals",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-04-11"
-    },
-    {
       "ipl_team1": "Punjab Kings",
       "ipl_team2": "Sunrisers Hyderabad",
       "date": "2026-04-11"
@@ -1489,6 +1484,131 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rr-rcb-20260411",
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-11",
+      "result": "Rajasthan Royals won by 6 wickets (with 12 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 32,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 14,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "batting": {
+            "runs": 1,
+            "balls": 6
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 30
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 5,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "batting": {
+            "runs": 9,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 37
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 33
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 32
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 14
+          },
+          "batting": {
+            "runs": 24,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 13,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 78,
+            "balls": 26
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 3,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 44
           }
         }
       ]
