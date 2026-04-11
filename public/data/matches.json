@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Chennai Super Kings",
-      "ipl_team2": "Delhi Capitals",
-      "date": "2026-04-12"
-    },
-    {
       "ipl_team1": "Lucknow Super Giants",
       "ipl_team2": "Gujarat Titans",
       "date": "2026-04-12"
@@ -1699,6 +1694,118 @@
           "batting": {
             "runs": 14,
             "balls": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-dc-20260412",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-12",
+      "result": "Chennai Super Kings won by 23 runs",
+      "performances": [
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 115,
+            "balls": 56
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 15,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 20,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 39
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 54
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 24
+          },
+          "batting": {
+            "runs": 4,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 18,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 60,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Akeal Hosein",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Khaleel Ahmed",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 4,
+            "overs": 4,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 36
           }
         }
       ]
