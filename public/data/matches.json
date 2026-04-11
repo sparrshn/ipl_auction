@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Punjab Kings",
-      "ipl_team2": "Sunrisers Hyderabad",
-      "date": "2026-04-11"
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-12"
+    },
+    {
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-04-12"
     }
   ],
   "matches": [
@@ -1609,6 +1614,91 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 44
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-pbks-srh-20260411",
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-11",
+      "result": "Punjab Kings won by 6 wickets (with 7 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 74,
+            "balls": 28
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0.5,
+            "runs_conceded": 7
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 27,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 50
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 33
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 57,
+            "balls": 20
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 69,
+            "balls": 33
+          }
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "batting": {
+            "runs": 14,
+            "balls": 14
           }
         }
       ]
