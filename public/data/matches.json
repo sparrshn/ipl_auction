@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Mumbai Indians",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-04-13"
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-14"
     }
   ],
   "matches": [
@@ -1901,6 +1901,121 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 31
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-mi-rcb-20260413",
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-13",
+      "result": "Royal Challengers Bengaluru won by 18 runs",
+      "performances": [
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 78,
+            "balls": 36
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 50,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 10,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Trent Boult",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 50
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 39
+          },
+          "batting": {
+            "runs": 40,
+            "balls": 22
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 35
+          }
+        },
+        {
+          "player_name": "Mitchell Santner",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 43
+          },
+          "batting": {
+            "runs": 8,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 33,
+            "balls": 22
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "batting": {
+            "runs": 71,
+            "balls": 31
+          }
+        },
+        {
+          "player_name": "Jacob Duffy",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 58
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 26
           }
         }
       ]
