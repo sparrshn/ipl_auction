@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Lucknow Super Giants",
-      "ipl_team2": "Gujarat Titans",
-      "date": "2026-04-12"
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-13"
     }
   ],
   "matches": [
@@ -1806,6 +1806,101 @@
             "wickets": 1,
             "overs": 3,
             "runs_conceded": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-gt-20260412",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-04-12",
+      "result": "Gujarat Titans won by 7 wickets (with 8 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 30,
+            "balls": 21
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1.4,
+            "runs_conceded": 15
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 11,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 19,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 19
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 4,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 15,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 56,
+            "balls": 40
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 60,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 21,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 31
           }
         }
       ]
