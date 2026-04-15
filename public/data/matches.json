@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Royal Challengers Bengaluru",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-04-16"
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-04-17"
     }
   ],
   "matches": [
@@ -2215,6 +2215,100 @@
             "wickets": 3,
             "overs": 4,
             "runs_conceded": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rcb-lsg-20260416",
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-16",
+      "result": "Royal Challengers Bengaluru won by 5 wickets (with 29 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 40,
+            "balls": 32
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 12,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 1,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 51
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 27
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 7,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 49,
+            "balls": 34
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 10,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 23,
+            "balls": 9
           }
         }
       ]
