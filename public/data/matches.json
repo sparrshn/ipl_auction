@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Gujarat Titans",
-      "ipl_team2": "Kolkata Knight Riders",
-      "date": "2026-04-18"
-    },
-    {
       "ipl_team1": "Royal Challengers Bengaluru",
       "ipl_team2": "Delhi Capitals",
       "date": "2026-04-18"
@@ -2410,6 +2405,94 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 41
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-gt-kkr-20260418",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-04-18",
+      "result": "Gujarat Titans won by 5 wickets (with 2 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "batting": {
+            "runs": 0,
+            "balls": 5
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 23
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 32
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 44
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 22,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 86,
+            "balls": 50
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 25,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 13,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 34
           }
         }
       ]
