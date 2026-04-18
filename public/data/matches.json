@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Royal Challengers Bengaluru",
-      "ipl_team2": "Delhi Capitals",
-      "date": "2026-04-18"
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-19"
+    },
+    {
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-19"
     }
   ],
   "matches": [
@@ -2493,6 +2498,113 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rcb-dc-20260418",
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-18",
+      "result": "Delhi Capitals won by 6 wickets (with 1 ball remaining)",
+      "performances": [
+        {
+          "player_name": "Phil Salt",
+          "batting": {
+            "runs": 63,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 19,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 18,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 14,
+            "balls": 20
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "batting": {
+            "runs": 12,
+            "balls": 10
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 24
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "batting": {
+            "runs": 3,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 32
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 16
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 57,
+            "balls": 34
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 60,
+            "balls": 47
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
           }
         }
       ]
