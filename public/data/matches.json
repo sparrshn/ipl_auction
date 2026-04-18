@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Sunrisers Hyderabad",
-      "ipl_team2": "Chennai Super Kings",
-      "date": "2026-04-19"
-    },
-    {
       "ipl_team1": "Kolkata Knight Riders",
       "ipl_team2": "Rajasthan Royals",
       "date": "2026-04-19"
@@ -2605,6 +2600,105 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 38
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-csk-20260419",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-19",
+      "result": "Sunrisers Hyderabad won by 10 runs",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 59,
+            "balls": 22
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 13
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 12,
+            "balls": 8
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 33
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 37
+          },
+          "batting": {
+            "runs": 16,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 7,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 19,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Sarfaraz Khan",
+          "batting": {
+            "runs": 25,
+            "balls": 19
+          }
+        },
+        {
+          "player_name": "Dewald Brevis",
+          "batting": {
+            "runs": 0,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 21,
+            "balls": 16
           }
         }
       ]
