@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Kolkata Knight Riders",
-      "ipl_team2": "Rajasthan Royals",
-      "date": "2026-04-19"
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-20"
     }
   ],
   "matches": [
@@ -2699,6 +2699,107 @@
           "batting": {
             "runs": 21,
             "balls": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-rr-20260419",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-19",
+      "result": "Kolkata Knight Riders won by 4 wickets (with 2 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 39,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 46,
+            "balls": 28
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 12,
+            "balls": 14
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 10
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 15,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 9,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 8
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 8,
+            "balls": 5
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 35
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 14
+          }
+        },
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 53,
+            "balls": 34
           }
         }
       ]
