@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Punjab Kings",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-04-20"
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-04-21"
     }
   ],
   "matches": [
@@ -2800,6 +2800,86 @@
           "batting": {
             "runs": 53,
             "balls": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-pbks-lsg-20260420",
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-04-20",
+      "result": "Punjab Kings won by 54 runs",
+      "performances": [
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 93,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 5,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "batting": {
+            "runs": 13,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 32
+          },
+          "batting": {
+            "runs": 42,
+            "balls": 22
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 40,
+            "balls": 28
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 9,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 54
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 36
           }
         }
       ]
