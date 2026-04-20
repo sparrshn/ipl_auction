@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Gujarat Titans",
-      "ipl_team2": "Mumbai Indians",
-      "date": "2026-04-21"
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-22"
     }
   ],
   "matches": [
@@ -2880,6 +2880,129 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-gt-mi-20260421",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-04-21",
+      "result": "Mumbai Indians won by 99 runs",
+      "performances": [
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 15,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 101,
+            "balls": 45
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 15,
+            "balls": 16
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 25
+          },
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 31
+          },
+          "batting": {
+            "runs": 4,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 54
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 13
+          },
+          "batting": {
+            "runs": 26,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 14,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 5,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 15
+          }
+        },
+        {
+          "player_name": "Mitchell Santner",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 16
           }
         }
       ]
