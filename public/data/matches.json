@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Sunrisers Hyderabad",
-      "ipl_team2": "Delhi Capitals",
-      "date": "2026-04-22"
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-23"
     }
   ],
   "matches": [
@@ -3003,6 +3003,95 @@
             "wickets": 2,
             "overs": 3,
             "runs_conceded": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-dc-20260422",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-04-22",
+      "result": "Sunrisers Hyderabad won by 47 runs",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 135,
+            "balls": 68
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 25,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 55
+          },
+          "batting": {
+            "runs": 57,
+            "balls": 30
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 23
+          },
+          "batting": {
+            "runs": 2,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 30
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 37,
+            "balls": 23
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 27,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 57
           }
         }
       ]
