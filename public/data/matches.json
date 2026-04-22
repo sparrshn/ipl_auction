@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Lucknow Super Giants",
-      "ipl_team2": "Rajasthan Royals",
-      "date": "2026-04-23"
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-24"
     }
   ],
   "matches": [
@@ -3092,6 +3092,104 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 57
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-rr-20260423",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-23",
+      "result": "Rajasthan Royals won by 40 runs",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 22,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 8,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 20,
+            "balls": 19
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 22,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 43,
+            "balls": 29
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 26
+          },
+          "batting": {
+            "runs": 2,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 55,
+            "balls": 41
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 0,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 22,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 20
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 23
           }
         }
       ]
