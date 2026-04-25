@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Punjab Kings",
-      "date": "2026-04-25"
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-26"
+    },
+    {
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-26"
     }
   ],
   "matches": [
@@ -3436,6 +3441,98 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 49
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-pbks-20260425",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-04-25",
+      "result": "Punjab Kings won by 6 wickets (with 7 balls remaining)",
+      "performances": [
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 152,
+            "balls": 67
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 91,
+            "balls": 44
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 49
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 69
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 43,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 71,
+            "balls": 36
+          }
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "batting": {
+            "runs": 25,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 44
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3.5,
+            "runs_conceded": 54
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 46
           }
         }
       ]
