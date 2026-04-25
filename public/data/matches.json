@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Rajasthan Royals",
-      "ipl_team2": "Sunrisers Hyderabad",
-      "date": "2026-04-26"
-    },
-    {
       "ipl_team1": "Gujarat Titans",
       "ipl_team2": "Chennai Super Kings",
       "date": "2026-04-26"
@@ -3533,6 +3528,114 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rr-srh-20260426",
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-26",
+      "result": "Sunrisers Hyderabad won by 5 wickets (with 9 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 10,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 103,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 7,
+            "balls": 9
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 12
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 11,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 4,
+            "balls": 3
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 11
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 2,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 34
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 27
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 20
+          },
+          "batting": {
+            "runs": 36,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 57,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 74,
+            "balls": 31
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 16
           }
         }
       ]
