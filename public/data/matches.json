@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Lucknow Super Giants",
-      "ipl_team2": "Kolkata Knight Riders",
-      "date": "2026-04-27"
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-28"
     }
   ],
   "matches": [
@@ -3757,6 +3757,76 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 29
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-kkr-20260427",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-04-27",
+      "result": "Gujarat Titans won by 8 wickets (with 20 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 83,
+            "balls": 51
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "batting": {
+            "runs": 4,
+            "balls": 6
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 0.3,
+            "runs_conceded": 1
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 46
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 9
+          },
+          "batting": {
+            "runs": 31,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 2,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 9,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 33
           }
         }
       ]
