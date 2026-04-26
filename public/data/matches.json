@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Gujarat Titans",
-      "ipl_team2": "Chennai Super Kings",
-      "date": "2026-04-26"
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-04-27"
     }
   ],
   "matches": [
@@ -3636,6 +3636,127 @@
             "wickets": 0,
             "overs": 1,
             "runs_conceded": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-gt-csk-20260426",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-04-26",
+      "result": "Gujarat Titans won by 8 wickets (with 20 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 11,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 74,
+            "balls": 60
+          }
+        },
+        {
+          "player_name": "Sarfaraz Khan",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Dewald Brevis",
+          "batting": {
+            "runs": 2,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 22,
+            "balls": 17
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 7
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "batting": {
+            "runs": 18,
+            "balls": 6
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 23
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 21
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 87,
+            "balls": 46
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 33,
+            "balls": 23
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 39,
+            "balls": 30
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 1,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Akeal Hosein",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3.4,
+            "runs_conceded": 46
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 29
           }
         }
       ]
