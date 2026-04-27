@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-04-28"
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-04-29"
     }
   ],
   "matches": [
@@ -3827,6 +3827,139 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 33
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-rcb-20260428",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-04-28",
+      "result": "Royal Challengers Bengaluru won by 9 wickets (with 81 balls remaining)",
+      "performances": [
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 1,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 5,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 5
+          }
+        },
+        {
+          "player_name": "Abishek Porel",
+          "batting": {
+            "runs": 30,
+            "balls": 33
+          }
+        },
+        {
+          "player_name": "Kyle Jamieson",
+          "batting": {
+            "runs": 12,
+            "balls": 13
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "batting": {
+            "runs": 3,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Dushmantha Chameera",
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 3,
+            "overs": 3,
+            "runs_conceded": 5
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 4,
+            "overs": 3.3,
+            "runs_conceded": 12
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 9
+          }
+        },
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 20,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 23,
+            "balls": 15
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 34,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 0.3,
+            "runs_conceded": 12
           }
         }
       ]
