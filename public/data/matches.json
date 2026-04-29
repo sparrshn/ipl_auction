@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Mumbai Indians",
-      "ipl_team2": "Sunrisers Hyderabad",
-      "date": "2026-04-30"
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-01"
     }
   ],
   "matches": [
@@ -4044,6 +4044,103 @@
             "wickets": 3,
             "overs": 4,
             "runs_conceded": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-mi-srh-20260430",
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-04-30",
+      "result": "Sunrisers Hyderabad won by 6 wickets (with 8 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Will Jacks",
+          "batting": {
+            "runs": 46,
+            "balls": 22
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 19
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 5,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 31,
+            "balls": 15
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3.4,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 7,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 31
+          },
+          "batting": {
+            "runs": 21,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 45,
+            "balls": 24
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Trent Boult",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 54
           }
         }
       ]
