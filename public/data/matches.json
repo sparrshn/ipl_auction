@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Gujarat Titans",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-05-01"
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-05-02"
     }
   ],
   "matches": [
@@ -4141,6 +4141,122 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 54
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-gt-rcb-20260501",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-01",
+      "result": "Gujarat Titans won by 4 wickets (with 25 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 5,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 28,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 40,
+            "balls": 24
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "batting": {
+            "runs": 4,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "batting": {
+            "runs": 15,
+            "balls": 15
+          },
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 56
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 19
+          },
+          "batting": {
+            "runs": 7,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 6,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 43,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 39,
+            "balls": 19
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 12,
+            "balls": 12
           }
         }
       ]
