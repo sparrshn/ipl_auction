@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Rajasthan Royals",
-      "ipl_team2": "Delhi Capitals",
-      "date": "2026-05-02"
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-03"
+    },
+    {
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-05-03"
     }
   ],
   "matches": [
@@ -4257,6 +4262,129 @@
           "batting": {
             "runs": 12,
             "balls": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rr-dc-20260502",
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-05-02",
+      "result": "Delhi Capitals won by 7 wickets (with 5 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 6,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 4,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 90,
+            "balls": 50
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 20,
+            "balls": 14
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 33
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 1,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 46
+          }
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "Kyle Jamieson",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 48
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 41
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 54
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 75,
+            "balls": 40
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 33,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 18,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 28
           }
         }
       ]
