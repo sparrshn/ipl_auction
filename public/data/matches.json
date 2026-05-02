@@ -6,14 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Chennai Super Kings",
-      "ipl_team2": "Mumbai Indians",
-      "date": "2026-05-03"
-    },
-    {
-      "ipl_team1": "Sunrisers Hyderabad",
-      "ipl_team2": "Kolkata Knight Riders",
-      "date": "2026-05-03"
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-05-04"
     }
   ],
   "matches": [
@@ -4385,6 +4380,177 @@
             "wickets": 0,
             "overs": 2,
             "runs_conceded": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-mi-20260503",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-03",
+      "result": "Chennai Super Kings won by 8 wickets (with 11 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Will Jacks",
+          "batting": {
+            "runs": 1,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 21,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 5,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 18,
+            "balls": 23
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Trent Boult",
+          "batting": {
+            "runs": 7,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 3.1,
+            "runs_conceded": 37
+          }
+        },
+        {
+          "player_name": "Prashant Veer",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 23
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 11,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 67,
+            "balls": 48
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-kkr-20260503",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-05-03",
+      "result": "Sunrisers Hyderabad won by 65 runs",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 48,
+            "balls": 21
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 15
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 14,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 39,
+            "balls": 24
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 2,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 39
+          },
+          "batting": {
+            "runs": 12,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 31
+          },
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 35,
+            "balls": 25
           }
         }
       ]
