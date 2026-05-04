@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Mumbai Indians",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-05-05"
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-05-06"
     }
   ],
   "matches": [
@@ -4657,6 +4657,85 @@
             "wickets": 0,
             "overs": 1,
             "runs_conceded": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-mi-lsg-20260505",
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-05-05",
+      "result": "Mumbai Indians won by 6 wickets (with 8 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 44,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 63,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 31,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 43
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 45
+          }
+        },
+        {
+          "player_name": "Will Jacks",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 34
+          },
+          "batting": {
+            "runs": 10,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 84,
+            "balls": 44
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 11,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 12,
+            "balls": 7
           }
         }
       ]
