@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Chennai Super Kings",
-      "date": "2026-05-06"
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-05-07"
     }
   ],
   "matches": [
@@ -4728,6 +4728,110 @@
           "batting": {
             "runs": 12,
             "balls": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-csk-20260506",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-05-06",
+      "result": "Chennai Super Kings won by 8 wickets (with 15 balls remaining)",
+      "performances": [
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 12,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 15,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "batting": {
+            "runs": 2,
+            "balls": 6
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 38,
+            "balls": 31
+          }
+        },
+        {
+          "player_name": "Akeal Hosein",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 19
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 22
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 1,
+            "overs": 1,
+            "runs_conceded": 5
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 87,
+            "balls": 52
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 6,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 30
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 34
+          }
+        },
+        {
+          "player_name": "T. Natarajan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2.3,
+            "runs_conceded": 39
           }
         }
       ]
