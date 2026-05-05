@@ -3766,7 +3766,7 @@
       "ipl_team1": "Lucknow Super Giants",
       "ipl_team2": "Kolkata Knight Riders",
       "date": "2026-04-27",
-      "result": "Gujarat Titans won by 8 wickets (with 20 balls remaining)",
+      "result": "Match tied",
       "performances": [
         {
           "player_name": "Rinku Singh",
@@ -3782,29 +3782,29 @@
             "balls": 6
           },
           "bowling": {
-            "wickets": 2,
-            "overs": 0.3,
-            "runs_conceded": 1
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 23
           }
         },
         {
-          "player_name": "Digvesh Rathi",
+          "player_name": "Varun Chakravarthy",
           "bowling": {
-            "wickets": 0,
+            "wickets": 2,
             "overs": 4,
-            "runs_conceded": 46
+            "runs_conceded": 33
           }
         },
         {
           "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 31,
+            "balls": 27
+          },
           "bowling": {
             "wickets": 0,
             "overs": 2,
             "runs_conceded": 9
-          },
-          "batting": {
-            "runs": 31,
-            "balls": 27
           }
         },
         {
@@ -3822,11 +3822,11 @@
           }
         },
         {
-          "player_name": "Varun Chakravarthy",
+          "player_name": "Digvesh Rathi",
           "bowling": {
-            "wickets": 2,
+            "wickets": 0,
             "overs": 4,
-            "runs_conceded": 33
+            "runs_conceded": 46
           }
         }
       ]
@@ -4489,68 +4489,60 @@
       "ipl_team1": "Sunrisers Hyderabad",
       "ipl_team2": "Kolkata Knight Riders",
       "date": "2026-05-03",
-      "result": "Sunrisers Hyderabad won by 65 runs",
+      "result": "Kolkata Knight Riders won by 7 wickets (with 10 balls remaining)",
       "performances": [
         {
           "player_name": "Abhishek Sharma",
           "batting": {
-            "runs": 48,
-            "balls": 21
+            "runs": 15,
+            "balls": 10
           },
           "bowling": {
             "wickets": 0,
-            "overs": 1,
-            "runs_conceded": 15
+            "overs": 2,
+            "runs_conceded": 14
           }
         },
         {
           "player_name": "Ishan Kishan",
           "batting": {
-            "runs": 14,
-            "balls": 9
+            "runs": 42,
+            "balls": 29
           }
         },
         {
-          "player_name": "Nitish Kumar Reddy",
+          "player_name": "Pat Cummins",
           "batting": {
-            "runs": 39,
-            "balls": 24
+            "runs": 10,
+            "balls": 8
           },
           "bowling": {
-            "wickets": 2,
-            "overs": 2,
-            "runs_conceded": 17
-          }
-        },
-        {
-          "player_name": "Sunil Narine",
-          "bowling": {
-            "wickets": 0,
+            "wickets": 1,
             "overs": 4,
-            "runs_conceded": 39
-          },
-          "batting": {
-            "runs": 12,
-            "balls": 4
-          }
-        },
-        {
-          "player_name": "Varun Chakravarthy",
-          "bowling": {
-            "wickets": 0,
-            "overs": 2,
-            "runs_conceded": 31
-          },
-          "batting": {
-            "runs": 0,
-            "balls": 1
+            "runs_conceded": 47
           }
         },
         {
           "player_name": "Rinku Singh",
           "batting": {
-            "runs": 35,
-            "balls": 25
+            "runs": 22,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 36
           }
         }
       ]
