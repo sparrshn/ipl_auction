@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Sunrisers Hyderabad",
-      "ipl_team2": "Punjab Kings",
-      "date": "2026-05-07"
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-08"
     }
   ],
   "matches": [
@@ -4832,6 +4832,79 @@
             "wickets": 0,
             "overs": 2.3,
             "runs_conceded": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-pbks-20260507",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-05-07",
+      "result": "Sunrisers Hyderabad won by 33 runs",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 35,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 55,
+            "balls": 32
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 29,
+            "balls": 13
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 11
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 43
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 32
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 5,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 34
           }
         }
       ]
