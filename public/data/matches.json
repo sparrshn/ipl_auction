@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Lucknow Super Giants",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-05-08"
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-05-09"
     }
   ],
   "matches": [
@@ -4905,6 +4905,100 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-rcb-20260508",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-08",
+      "result": "Lucknow Super Giants won by 9 runs (DLS method)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 111,
+            "balls": 56
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 38,
+            "balls": 23
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 1,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 34
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 49
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 31
+          },
+          "batting": {
+            "runs": 28,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 4,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 34,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 50
           }
         }
       ]
