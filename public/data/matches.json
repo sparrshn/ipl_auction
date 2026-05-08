@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Kolkata Knight Riders",
-      "date": "2026-05-09"
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-05-10"
+    },
+    {
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-05-10"
     }
   ],
   "matches": [
@@ -4999,6 +5004,84 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-kkr-20260509",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Kolkata Knight Riders",
+      "date": "2026-05-09",
+      "result": "Kolkata Knight Riders won by 8 wickets (with 34 balls remaining)",
+      "performances": [
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 23,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Nitish Rana",
+          "batting": {
+            "runs": 8,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 2,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "batting": {
+            "runs": 11,
+            "balls": 22
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 27
+          }
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 41
           }
         }
       ]
