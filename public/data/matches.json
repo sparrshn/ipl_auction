@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Chennai Super Kings",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-05-10"
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-11"
     }
   ],
   "matches": [
@@ -5227,6 +5227,116 @@
             "wickets": 4,
             "overs": 4,
             "runs_conceded": 33
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-lsg-20260510",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-05-10",
+      "result": "Chennai Super Kings won by 5 wickets (with 4 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 10,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Aiden Markram",
+          "batting": {
+            "runs": 6,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0.2,
+            "runs_conceded": 14
+          }
+        },
+        {
+          "player_name": "Akeal Hosein",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 49
+          }
+        },
+        {
+          "player_name": "Mukesh Choudhary",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 45
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 24
+          }
+        },
+        {
+          "player_name": "Jamie Overton",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 36
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 28,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 42,
+            "balls": 28
+          }
+        },
+        {
+          "player_name": "Dewald Brevis",
+          "batting": {
+            "runs": 10,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 15,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Prashant Veer",
+          "batting": {
+            "runs": 17,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 45
           }
         }
       ]
