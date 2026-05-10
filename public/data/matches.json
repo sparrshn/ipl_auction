@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Royal Challengers Bengaluru",
-      "ipl_team2": "Mumbai Indians",
-      "date": "2026-05-11"
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-05-12"
     }
   ],
   "matches": [
@@ -5337,6 +5337,128 @@
             "wickets": 2,
             "overs": 4,
             "runs_conceded": 45
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rcb-mi-20260511",
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-11",
+      "result": "Royal Challengers Bengaluru won by 2 wickets (with 0 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 22,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 57,
+            "balls": 42
+          }
+        },
+        {
+          "player_name": "Will Jacks",
+          "batting": {
+            "runs": 10,
+            "balls": 10
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 13
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 33
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 4,
+            "overs": 4,
+            "runs_conceded": 23
+          },
+          "batting": {
+            "runs": 7,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 33
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 26
+          },
+          "batting": {
+            "runs": 73,
+            "balls": 46
+          }
+        },
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 27,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 12,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 18,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 20
           }
         }
       ]
