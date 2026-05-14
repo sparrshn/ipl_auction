@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Punjab Kings",
-      "ipl_team2": "Mumbai Indians",
-      "date": "2026-05-15"
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Chennai Super Kings",
+      "date": "2026-05-16"
     }
   ],
   "matches": [
@@ -5717,6 +5717,106 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 31
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-pbks-mi-20260515",
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-15",
+      "result": "Mumbai Indians won by 6 wickets (with 1 ball remaining)",
+      "performances": [
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 22,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 4,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Xavier Bartlett",
+          "batting": {
+            "runs": 18,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 3.5,
+            "runs_conceded": 53
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 36
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 35
+          }
+        },
+        {
+          "player_name": "Will Jacks",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 9
+          },
+          "batting": {
+            "runs": 25,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 25,
+            "balls": 26
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 75,
+            "balls": 33
+          }
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "batting": {
+            "runs": 20,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 32
           }
         }
       ]
