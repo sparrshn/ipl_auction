@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Punjab Kings",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-05-17"
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-18"
     }
   ],
   "matches": [
@@ -5985,6 +5985,102 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 47
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-pbks-rcb-20260517",
+      "ipl_team1": "Punjab Kings",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-17",
+      "result": "Royal Challengers Bengaluru won by 23 runs",
+      "performances": [
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 11,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 58,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 45,
+            "balls": 25
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 43
+          }
+        },
+        {
+          "player_name": "Harpreet Brar",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 35
+          },
+          "batting": {
+            "runs": 5,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 0,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 1,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 36
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 27
           }
         }
       ]
