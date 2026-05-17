@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Delhi Capitals",
-      "ipl_team2": "Rajasthan Royals",
-      "date": "2026-05-18"
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-05-19"
     }
   ],
   "matches": [
@@ -6081,6 +6081,101 @@
             "wickets": 0,
             "overs": 3,
             "runs_conceded": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-dc-rr-20260518",
+      "ipl_team1": "Delhi Capitals",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-18",
+      "result": "Delhi Capitals won by 5 wickets (with 4 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 12,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 46,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 51,
+            "balls": 26
+          }
+        },
+        {
+          "player_name": "Dasun Shanaka",
+          "batting": {
+            "runs": 10,
+            "balls": 8
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 29
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 2,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 35
+          }
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "bowling": {
+            "wickets": 4,
+            "overs": 4,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 31
+          },
+          "batting": {
+            "runs": 34,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Abishek Porel",
+          "batting": {
+            "runs": 51,
+            "balls": 31
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 56,
+            "balls": 42
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 4,
+            "balls": 6
           }
         }
       ]
