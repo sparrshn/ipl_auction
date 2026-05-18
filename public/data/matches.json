@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Chennai Super Kings",
-      "ipl_team2": "Sunrisers Hyderabad",
-      "date": "2026-05-19"
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-05-20"
     }
   ],
   "matches": [
@@ -6176,6 +6176,125 @@
           "batting": {
             "runs": 4,
             "balls": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-srh-20260519",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Sunrisers Hyderabad",
+      "date": "2026-05-19",
+      "result": "Sunrisers Hyderabad won by 5 wickets (with 6 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 27,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 15,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Dewald Brevis",
+          "batting": {
+            "runs": 44,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "batting": {
+            "runs": 26,
+            "balls": 23
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 12
+          }
+        },
+        {
+          "player_name": "Prashant Veer",
+          "batting": {
+            "runs": 11,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Akeal Hosein",
+          "batting": {
+            "runs": 3,
+            "balls": 1
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 21
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 35
+          },
+          "batting": {
+            "runs": 11,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 26,
+            "balls": 21
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 70,
+            "balls": 47
+          }
+        },
+        {
+          "player_name": "Mukesh Choudhary",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 36
+          }
+        },
+        {
+          "player_name": "Spencer Johnson",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 40
           }
         }
       ]
