@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Rajasthan Royals",
-      "ipl_team2": "Lucknow Super Giants",
-      "date": "2026-05-20"
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-21"
     }
   ],
   "matches": [
@@ -6295,6 +6295,67 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rr-lsg-20260520",
+      "ipl_team1": "Rajasthan Royals",
+      "ipl_team2": "Lucknow Super Giants",
+      "date": "2026-05-20",
+      "result": "Rajasthan Royals won by 7 wickets (with 5 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Mitchell Marsh",
+          "batting": {
+            "runs": 96,
+            "balls": 57
+          }
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 16,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 39
+          }
+        },
+        {
+          "player_name": "Dasun Shanaka",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 10
+          }
+        },
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 43,
+            "balls": 23
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 93,
+            "balls": 38
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
           }
         }
       ]
