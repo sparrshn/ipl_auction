@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Kolkata Knight Riders",
-      "ipl_team2": "Mumbai Indians",
-      "date": "2026-05-21"
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-05-22"
     }
   ],
   "matches": [
@@ -6356,6 +6356,111 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 38
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-mi-20260521",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Mumbai Indians",
+      "date": "2026-05-21",
+      "result": "Kolkata Knight Riders won by 4 wickets (with 7 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 15,
+            "balls": 13
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 15,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 20,
+            "balls": 32
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 26,
+            "balls": 27
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 13
+          }
+        },
+        {
+          "player_name": "Will Jacks",
+          "batting": {
+            "runs": 14,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 0.5,
+            "runs_conceded": 7
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "batting": {
+            "runs": 10,
+            "balls": 7
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 23
+          }
+        },
+        {
+          "player_name": "Saurabh Dubey",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 34
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 13
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 9,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 26
           }
         }
       ]
