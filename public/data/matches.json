@@ -6,9 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Chennai Super Kings",
-      "ipl_team2": "Gujarat Titans",
-      "date": "2026-05-22"
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-23"
     }
   ],
   "matches": [
@@ -6461,6 +6461,136 @@
             "wickets": 1,
             "overs": 4,
             "runs_conceded": 26
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-csk-gt-20260522",
+      "ipl_team1": "Chennai Super Kings",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-05-22",
+      "result": "Gujarat Titans won by 89 runs",
+      "performances": [
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 84,
+            "balls": 53
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 64,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 57,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 7,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Mukesh Choudhary",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 36
+          },
+          "batting": {
+            "runs": 2,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Spencer Johnson",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 47
+          },
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 41
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Shivam Dube",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 15
+          },
+          "batting": {
+            "runs": 47,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Sanju Samson",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "batting": {
+            "runs": 16,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Dewald Brevis",
+          "batting": {
+            "runs": 8,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 3,
+            "overs": 3,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 3,
+            "overs": 2,
+            "runs_conceded": 18
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 13
           }
         }
       ]
