@@ -6,9 +6,14 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Sunrisers Hyderabad",
-      "ipl_team2": "Royal Challengers Bengaluru",
-      "date": "2026-05-23"
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-05-24"
+    },
+    {
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-24"
     }
   ],
   "matches": [
@@ -6591,6 +6596,91 @@
             "wickets": 0,
             "overs": 1,
             "runs_conceded": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-srh-rcb-20260523",
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Royal Challengers Bengaluru",
+      "date": "2026-05-23",
+      "result": "Sunrisers Hyderabad won by 55 runs",
+      "performances": [
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 56,
+            "balls": 22
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 79,
+            "balls": 46
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 29,
+            "balls": 12
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 10
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 51
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 55
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 24
+          },
+          "batting": {
+            "runs": 41,
+            "balls": 31
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 15,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 21,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 48
           }
         }
       ]
