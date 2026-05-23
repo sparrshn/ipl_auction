@@ -6,14 +6,9 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Lucknow Super Giants",
-      "ipl_team2": "Punjab Kings",
-      "date": "2026-05-24"
-    },
-    {
-      "ipl_team1": "Mumbai Indians",
-      "ipl_team2": "Rajasthan Royals",
-      "date": "2026-05-24"
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-05-25"
     }
   ],
   "matches": [
@@ -6681,6 +6676,189 @@
             "wickets": 0,
             "overs": 4,
             "runs_conceded": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-lsg-pbks-20260524",
+      "ipl_team1": "Lucknow Super Giants",
+      "ipl_team2": "Punjab Kings",
+      "date": "2026-05-24",
+      "result": "Punjab Kings won by 7 wickets (with 12 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Nicholas Pooran",
+          "batting": {
+            "runs": 2,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 52
+          }
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Shreyas Iyer",
+          "batting": {
+            "runs": 101,
+            "balls": 51
+          }
+        },
+        {
+          "player_name": "Digvesh Rathi",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-mi-rr-20260524",
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-24",
+      "result": "Rajasthan Royals won by 27 runs",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 77,
+            "balls": 32
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 39,
+            "balls": 14
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 20,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "batting": {
+            "runs": 6,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 22
+          },
+          "batting": {
+            "runs": 6,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Jasprit Bumrah",
+          "bowling": {
+            "wickets": 0,
+            "overs": 3,
+            "runs_conceded": 32
+          },
+          "batting": {
+            "runs": 5,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Trent Boult",
+          "bowling": {
+            "wickets": 0,
+            "overs": 1,
+            "runs_conceded": 22
+          },
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 17
+          },
+          "batting": {
+            "runs": 9,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 5,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 6,
+            "balls": 3
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 14,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "batting": {
+            "runs": 25,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "bowling": {
+            "wickets": 2,
+            "overs": 2,
+            "runs_conceded": 25
           }
         }
       ]
