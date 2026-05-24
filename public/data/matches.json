@@ -6,11 +6,6 @@
   },
   "upcoming_matches": [
     {
-      "ipl_team1": "Mumbai Indians",
-      "ipl_team2": "Rajasthan Royals",
-      "date": "2026-05-24"
-    },
-    {
       "ipl_team1": "Kolkata Knight Riders",
       "ipl_team2": "Delhi Capitals",
       "date": "2026-05-25"
@@ -1172,7 +1167,7 @@
       "ipl_team1": "Kolkata Knight Riders",
       "ipl_team2": "Punjab Kings",
       "date": "2026-04-06",
-      "result": "Match abandoned due to rain \u2014 no result",
+      "result": "Match abandoned due to rain — no result",
       "performances": [
         {
           "player_name": "Arshdeep Singh",
@@ -6735,6 +6730,124 @@
             "wickets": 0,
             "overs": 3,
             "runs_conceded": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-mi-rr-20260524",
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-24",
+      "result": "Rajasthan Royals won by 30 runs",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 27,
+            "balls": 17
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 4,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 14,
+            "balls": 8
+          }
+        },
+        {
+          "player_name": "Dasun Shanaka",
+          "batting": {
+            "runs": 29,
+            "balls": 15
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 21
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 32,
+            "balls": 15
+          },
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 17
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 19,
+            "balls": 11
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 24
+          }
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 43
+          },
+          "batting": {
+            "runs": 8,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Will Jacks",
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 12
+          },
+          "batting": {
+            "runs": 33,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "batting": {
+            "runs": 0,
+            "balls": 4
+          }
+        },
+        {
+          "player_name": "SKY",
+          "batting": {
+            "runs": 60,
+            "balls": 42
+          }
+        },
+        {
+          "player_name": "Tilak Verma",
+          "batting": {
+            "runs": 3,
+            "balls": 7
+          }
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "batting": {
+            "runs": 34,
+            "balls": 15
           }
         }
       ]
