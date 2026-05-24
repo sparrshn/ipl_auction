@@ -6,6 +6,11 @@
   },
   "upcoming_matches": [
     {
+      "ipl_team1": "Mumbai Indians",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-24"
+    },
+    {
       "ipl_team1": "Kolkata Knight Riders",
       "ipl_team2": "Delhi Capitals",
       "date": "2026-05-25"
