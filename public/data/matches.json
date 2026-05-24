@@ -4,13 +4,7 @@
     "purple_cap_holder": null,
     "mvp": null
   },
-  "upcoming_matches": [
-    {
-      "ipl_team1": "Kolkata Knight Riders",
-      "ipl_team2": "Delhi Capitals",
-      "date": "2026-05-25"
-    }
-  ],
+  "upcoming_matches": [],
   "matches": [
     {
       "id": "match-srh-rcb-20260329",
@@ -6848,6 +6842,103 @@
           "batting": {
             "runs": 34,
             "balls": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-kkr-dc-20260525",
+      "ipl_team1": "Kolkata Knight Riders",
+      "ipl_team2": "Delhi Capitals",
+      "date": "2026-05-25",
+      "result": "Delhi Capitals won by 40 runs",
+      "performances": [
+        {
+          "player_name": "Abishek Porel",
+          "batting": {
+            "runs": 22,
+            "balls": 18
+          }
+        },
+        {
+          "player_name": "KL Rahul",
+          "batting": {
+            "runs": 60,
+            "balls": 30
+          }
+        },
+        {
+          "player_name": "Axar Patel",
+          "batting": {
+            "runs": 39,
+            "balls": 25
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Saurabh Dubey",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 28
+          },
+          "batting": {
+            "runs": 4,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Sunil Narine",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 38
+          }
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 35
+          },
+          "batting": {
+            "runs": 5,
+            "balls": 5
+          }
+        },
+        {
+          "player_name": "Rinku Singh",
+          "batting": {
+            "runs": 0,
+            "balls": 1
+          }
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 26
+          }
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 29
           }
         }
       ]
