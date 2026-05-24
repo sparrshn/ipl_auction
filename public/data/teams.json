@@ -84,7 +84,7 @@
         { "name": "Noor Ahmad", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Chennai Super Kings" },
         { "name": "Jofra Archer", "role": "Bowler", "nationality": "Overseas", "uncapped": false, "ipl_team": "Rajasthan Royals" },
         { "name": "Bhuvneshwar Kumar", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
-        { "name": "Jitesh Sharma", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
+        { "name": "Jitesh Sharma", "role": "Wicket-Keeper", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
         { "name": "Devdutt Padikkal", "role": "Batsman", "nationality": "India", "uncapped": false, "ipl_team": "Royal Challengers Bengaluru" },
         { "name": "Nitish Kumar Reddy", "role": "All-Rounder", "nationality": "India", "uncapped": false, "ipl_team": "Sunrisers Hyderabad" },
         { "name": "Mohammed Siraj", "role": "Bowler", "nationality": "India", "uncapped": false, "ipl_team": "Gujarat Titans" },
