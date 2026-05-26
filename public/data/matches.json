@@ -4,7 +4,18 @@
     "purple_cap_holder": null,
     "mvp": null
   },
-  "upcoming_matches": [],
+  "upcoming_matches": [
+    {
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-05-27"
+    },
+    {
+      "ipl_team1": "Sunrisers Hyderabad",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-28"
+    }
+  ],
   "matches": [
     {
       "id": "match-srh-rcb-20260329",
