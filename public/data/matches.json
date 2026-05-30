@@ -7171,6 +7171,124 @@
           }
         }
       ]
+    },
+    {
+      "id": "match-gt-rr-20260530",
+      "ipl_team1": "Gujarat Titans",
+      "ipl_team2": "Rajasthan Royals",
+      "date": "2026-05-30",
+      "result": "Gujarat Titans won by 7 wickets (RR 214/6 in 20 ov, GT 219/3 in 18.4 ov)",
+      "performances": [
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Vaibhav Suryavanshi",
+          "batting": {
+            "runs": 96,
+            "balls": 47
+          }
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "batting": {
+            "runs": 45,
+            "balls": 35
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 28
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 11,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Dasun Shanaka",
+          "batting": {
+            "runs": 3,
+            "balls": 9
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 7,
+            "balls": 4
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 45
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 42
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 16,
+            "balls": 9
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 23
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 45
+          }
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 58,
+            "balls": 32
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 104,
+            "balls": 53
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 9,
+            "balls": 9
+          }
+        }
+      ]
     }
   ]
 }
