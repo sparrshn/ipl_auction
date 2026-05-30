@@ -7081,86 +7081,93 @@
       "result": "Rajasthan Royals won by 47 runs",
       "performances": [
         {
-          "player_name": "Abhishek Sharma",
-          "batting": {
-            "runs": 0,
-            "balls": 1
-          }
-        },
-        {
-          "player_name": "Ishan Kishan",
-          "batting": {
-            "runs": 91,
-            "balls": 44
-          }
-        },
-        {
-          "player_name": "Nitish Kumar Reddy",
-          "batting": {
-            "runs": 28,
-            "balls": 13
-          },
-          "bowling": {
-            "wickets": 0,
-            "overs": 2,
-            "runs_conceded": 19
-          }
-        },
-        {
-          "player_name": "Jofra Archer",
-          "bowling": {
-            "wickets": 2,
-            "overs": 4,
-            "runs_conceded": 37
-          },
-          "batting": {
-            "runs": 2,
-            "balls": 5
-          }
-        },
-        {
-          "player_name": "Riyan Parag",
-          "bowling": {
-            "wickets": 1,
-            "overs": 1,
-            "runs_conceded": 5
-          },
-          "batting": {
-            "runs": 4,
-            "balls": 6
-          }
-        },
-        {
-          "player_name": "Ravi Bishnoi",
-          "bowling": {
-            "wickets": 0,
-            "overs": 3,
-            "runs_conceded": 35
-          },
-          "batting": {
-            "runs": 0,
-            "balls": 1
-          }
-        },
-        {
           "player_name": "Yashasvi Jaiswal",
           "batting": {
-            "runs": 1,
-            "balls": 5
+            "runs": 29,
+            "balls": 29
           }
         },
         {
           "player_name": "Vaibhav Suryavanshi",
           "batting": {
-            "runs": 0,
-            "balls": 1
+            "runs": 97,
+            "balls": 29
+          }
+        },
+        {
+          "player_name": "Riyan Parag",
+          "batting": {
+            "runs": 26,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Dasun Shanaka",
+          "batting": {
+            "runs": 5,
+            "balls": 3
           }
         },
         {
           "player_name": "Ravindra Jadeja",
           "batting": {
-            "runs": 45,
-            "balls": 32
+            "runs": 12,
+            "balls": 9
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 3,
+            "runs_conceded": 21
+          }
+        },
+        {
+          "player_name": "Jofra Archer",
+          "batting": {
+            "runs": 4,
+            "balls": 5
+          },
+          "bowling": {
+            "wickets": 3,
+            "overs": 4,
+            "runs_conceded": 58
+          }
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "batting": {
+            "runs": 0,
+            "balls": 2
+          }
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "batting": {
+            "runs": 33,
+            "balls": 11
+          }
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "batting": {
+            "runs": 38,
+            "balls": 20
+          },
+          "bowling": {
+            "wickets": 1,
+            "overs": 2,
+            "runs_conceded": 12
+          }
+        },
+        {
+          "player_name": "Pat Cummins",
+          "batting": {
+            "runs": 1,
+            "balls": 2
+          },
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 64
           }
         }
       ]
