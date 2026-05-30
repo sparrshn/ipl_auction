@@ -363,5 +363,11 @@
     "date": "2026-05-30",
     "team1": "Gujarat Titans",
     "team2": "Rajasthan Royals"
+  },
+  {
+    "date": "2026-06-01",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Gujarat Titans",
+    "grand_final": true
   }
 ]
