@@ -4,14 +4,7 @@
     "purple_cap_holder": null,
     "mvp": null
   },
-  "upcoming_matches": [
-    {
-      "ipl_team1": "Royal Challengers Bengaluru",
-      "ipl_team2": "Gujarat Titans",
-      "date": "2026-06-01",
-      "grand_final": true
-    }
-  ],
+  "upcoming_matches": [],
   "matches": [
     {
       "id": "match-srh-rcb-20260329",
@@ -1168,7 +1161,7 @@
       "ipl_team1": "Kolkata Knight Riders",
       "ipl_team2": "Punjab Kings",
       "date": "2026-04-06",
-      "result": "Match abandoned due to rain \u2014 no result",
+      "result": "Match abandoned due to rain — no result",
       "performances": [
         {
           "player_name": "Arshdeep Singh",
@@ -7293,6 +7286,123 @@
           "batting": {
             "runs": 9,
             "balls": 9
+          }
+        }
+      ]
+    },
+    {
+      "id": "match-rcb-gt-20260601",
+      "ipl_team1": "Royal Challengers Bengaluru",
+      "ipl_team2": "Gujarat Titans",
+      "date": "2026-06-01",
+      "result": "Royal Challengers Bengaluru won by 5 wickets (with 12 balls remaining)",
+      "performances": [
+        {
+          "player_name": "Sai Sudharsan",
+          "batting": {
+            "runs": 100,
+            "balls": 58
+          }
+        },
+        {
+          "player_name": "Shubman Gill",
+          "batting": {
+            "runs": 32,
+            "balls": 24
+          }
+        },
+        {
+          "player_name": "Jos Buttler",
+          "batting": {
+            "runs": 25,
+            "balls": 16
+          }
+        },
+        {
+          "player_name": "Washington Sundar",
+          "batting": {
+            "runs": 19,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "bowling": {
+            "wickets": 1,
+            "overs": 4,
+            "runs_conceded": 40
+          }
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 50
+          },
+          "batting": {
+            "runs": 23,
+            "balls": 12
+          }
+        },
+        {
+          "player_name": "Jacob Bethell",
+          "batting": {
+            "runs": 14,
+            "balls": 10
+          }
+        },
+        {
+          "player_name": "Virat Kohli",
+          "batting": {
+            "runs": 81,
+            "balls": 44
+          }
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "batting": {
+            "runs": 55,
+            "balls": 27
+          }
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "batting": {
+            "runs": 10,
+            "balls": 6
+          }
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "bowling": {
+            "wickets": 1,
+            "overs": 3,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "bowling": {
+            "wickets": 0,
+            "overs": 2,
+            "runs_conceded": 31
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 49
           }
         }
       ]
