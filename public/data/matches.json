@@ -7300,109 +7300,114 @@
         {
           "player_name": "Sai Sudharsan",
           "batting": {
-            "runs": 100,
-            "balls": 58
+            "runs": 12,
+            "balls": 12
           }
         },
         {
           "player_name": "Shubman Gill",
           "batting": {
-            "runs": 32,
-            "balls": 24
+            "runs": 10,
+            "balls": 8
           }
         },
         {
           "player_name": "Jos Buttler",
           "batting": {
-            "runs": 25,
-            "balls": 16
+            "runs": 19,
+            "balls": 23
           }
         },
         {
           "player_name": "Washington Sundar",
           "batting": {
-            "runs": 19,
-            "balls": 12
+            "runs": 50,
+            "balls": 37
+          }
+        },
+        {
+          "player_name": "Rashid Khan",
+          "batting": {
+            "runs": 7,
+            "balls": 3
+          },
+          "bowling": {
+            "wickets": 2,
+            "overs": 4,
+            "runs_conceded": 25
+          }
+        },
+        {
+          "player_name": "Jacob Duffy",
+          "bowling": {
+            "wickets": 0,
+            "overs": 4,
+            "runs_conceded": 38
           }
         },
         {
           "player_name": "Bhuvneshwar Kumar",
           "bowling": {
-            "wickets": 1,
+            "wickets": 2,
             "overs": 4,
-            "runs_conceded": 31
+            "runs_conceded": 29
           }
         },
         {
           "player_name": "Josh Hazlewood",
           "bowling": {
-            "wickets": 1,
+            "wickets": 2,
             "overs": 4,
-            "runs_conceded": 40
+            "runs_conceded": 37
           }
         },
         {
           "player_name": "Krunal Pandya",
           "bowling": {
-            "wickets": 0,
+            "wickets": 1,
             "overs": 4,
-            "runs_conceded": 50
+            "runs_conceded": 23
           },
           "batting": {
-            "runs": 23,
-            "balls": 12
-          }
-        },
-        {
-          "player_name": "Jacob Bethell",
-          "batting": {
-            "runs": 14,
-            "balls": 10
+            "runs": 1,
+            "balls": 2
           }
         },
         {
           "player_name": "Virat Kohli",
           "batting": {
-            "runs": 81,
-            "balls": 44
+            "runs": 75,
+            "balls": 42
           }
         },
         {
           "player_name": "Devdutt Padikkal",
           "batting": {
-            "runs": 55,
-            "balls": 27
+            "runs": 1,
+            "balls": 4
           }
         },
         {
           "player_name": "Jitesh Sharma",
           "batting": {
-            "runs": 10,
-            "balls": 6
+            "runs": 11,
+            "balls": 14
           }
         },
         {
           "player_name": "Mohammed Siraj",
           "bowling": {
             "wickets": 1,
-            "overs": 3,
-            "runs_conceded": 25
+            "overs": 4,
+            "runs_conceded": 36
           }
         },
         {
           "player_name": "Prasidh Krishna",
           "bowling": {
             "wickets": 0,
-            "overs": 2,
-            "runs_conceded": 31
-          }
-        },
-        {
-          "player_name": "Rashid Khan",
-          "bowling": {
-            "wickets": 2,
-            "overs": 4,
-            "runs_conceded": 49
+            "overs": 1,
+            "runs_conceded": 7
           }
         }
       ]
